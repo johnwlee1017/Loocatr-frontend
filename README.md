@@ -1,13 +1,13 @@
 # Loocatr-frontend
 
 <p align="center">
-<img width="300" alt="homescreen" src="https://user-images.githubusercontent.com/29417990/32300389-81fd518e-bf16-11e7-8064-de17d731e099.png">
+  <img width="300" alt="homescreen" src="https://user-images.githubusercontent.com/29417990/32300389-81fd518e-bf16-11e7-8064-de17d731e099.png">
 </p>
 <p align="center">
-<img width="300" alt="mappage" src="https://user-images.githubusercontent.com/29417990/32300415-a49b0dbc-bf16-11e7-97fc-70216608b5ab.png">
+  <img width="300" alt="mappage" src="https://user-images.githubusercontent.com/29417990/32300415-a49b0dbc-bf16-11e7-97fc-70216608b5ab.png">
 </p>
 <p align="center">
-<img width="300" alt="details" src="https://user-images.githubusercontent.com/29417990/32300423-aee840dc-bf16-11e7-9c7f-fcd71fd2ad89.png">
+  <img width="300" alt="details" src="https://user-images.githubusercontent.com/29417990/32300423-aee840dc-bf16-11e7-9c7f-fcd71fd2ad89.png">
 </p>
 
 ### Synopsis
