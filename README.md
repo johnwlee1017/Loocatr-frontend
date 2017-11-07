@@ -21,7 +21,7 @@ loocatr was inspired by the fact that I always have to use the restroom, and esp
 
 ## Tech Stack
 
-The stack used for this project is React Native for the front-end, and a Ruby on Rails API for the backend.
+The stack used for this project is React Native, Ruby on Rails, PostreSQL, Firebase, and Heroku
 
 ## Installation
 
